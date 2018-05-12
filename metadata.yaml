@@ -1,0 +1,37 @@
+_repo: The-Canadian--13-Photoplay-title-of-The-Land-of-Promise_18410
+_version: 0.1.0
+alternative_title: The Land of Promise
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Torbett, D.
+    gutenberg_agent_id: '8010'
+    url: http://www.gutenberg.org/2009/agents/8010
+  - agent_name: Maugham, W. Somerset (William Somerset)
+    aliases:
+    - Maugham, Somerset
+    - Maugham, William Somerset
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '126'
+    url: http://www.gutenberg.org/2009/agents/126
+    wikipedia: http://en.wikipedia.org/wiki/W._Somerset_Maugham
+description: '"a novelization of W. Somerset Maugham''s play"'
+gutenberg_issued: '2006-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18410'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Attitude change -- Fiction'
+- !lcsh 'Farm life -- Fiction'
+- !lcsh 'Canada -- Fiction'
+title: "The Canadian\r\nPhotoplay title of The Land of Promise"
+url: http://www.gutenberg.org/ebooks/18410
